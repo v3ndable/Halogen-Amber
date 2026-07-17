@@ -62,41 +62,33 @@ Follow these steps to install and configure Halogen Amber.
 
 ### Step 1 — Import the Total Launcher backup
 
-1. Open **Total Launcher**.
-2. Open the menu.
-3. Go to **Backup Center**.
-4. Tap **+** → **Import Backup**.
-5. Select `Halogen_Amber.zip`.
-6. Tap the **⋮** menu and choose **Restore**.
+1. Open **Total Launcher** and go to:
+   **Menu → Backup Center → + → Import Backup**
+2. Select `Halogen_Amber.zip`.
+3. Open the **⋮** menu and choose **Restore**.
 
 ### Step 2 — Import the KWGT widget
 
 1. Open the **KWGT** app.
-2. Tap **Select Folder**.
-3. Create the **Kustom** folder if it doesn't already exist.
-4. Using your file manager, copy `OnepanelAmber.kwgt` to `/Kustom/widgets`
-5. Return to your home screen.
-6. Tap the yellow widget placeholder.
-7. Select **Create Widget**.
-8. KWGT will open automatically.
-9. Open the **Library** tab.
-10. Select **OnepanelAmber**.
-11. Grant any permissions requested by KWGT. If Android shows **"Restricted setting"**, allow restricted settings first: **Settings → Apps → Kustom Widget → ⋮ → Allow restricted settings**
-12. Save the widget.
+2. Tap **Select Folder** and create the **Kustom** folder if it doesn't already exist.
+3. Copy `OnepanelAmber.kwgt` to: `/Kustom/widgets`
+3. Return to your home screen and tap the yellow widget placeholder.
+4. Select **Create Widget**.
+5. Open the **Library** tab and select **OnepanelAmber**.
+6. Grant any permissions requested by KWGT. If Android shows **"Restricted setting"**, allow restricted settings first: **Settings → Apps → Kustom Widget → ⋮ → Allow restricted settings**
+7. Save the widget.
 
 ### Step 3 — Set Total Launcher as your default launcher
 
 1. Go to: **Settings → Apps → Default apps → Home app**
 2. Select **Total Launcher**.
 
-### 4. Install the icon pack
+### Step 4 — Install the icon pack
 
 1. Open **Icon Pack Studio**.
-2. Search for **Halogen**.
-3. Download the icon pack.
-4. Open **Library**.
-5. Select **Halogen** and tap **Apply**.
-6. Once the APK has been generated, install it using your file manager.
+2. Search for **Halogen** and download the icon pack.
+3. Open **Library**, select **Halogen**, and tap **Apply**.
+4. Once the APK has been generated, install it using your file manager.
 
 > [!NOTE]
 > **Installation complete!**  
@@ -137,6 +129,8 @@ To use a different accent color: **KWGT → Globals → Color**
 This project is a modified fork of [Halogen](https://github.com/Halodoesanope/Halogen.git) by [Halodoesanope](https://github.com/Halodoesanope) and is licensed under the **GNU General Public License v3.0 (GPL-3.0)**, in accordance with the original project.
 
 See the [LICENSE](LICENSE) file for the full license text.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/v3ndable/Halogen-Amber.svg?style=for-the-badge
 [contributors-url]: https://github.com/v3ndable/Halogen-Amber/graphs/contributors
