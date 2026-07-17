@@ -29,9 +29,9 @@ An orange/amber-themed Android home screen setup for **Total Launcher** powered 
 </details>
 
 ## About
-Halogen Amber is an orange/amber-themed Android home screen setup for Total Launcher. It includes a custom launcher backup, a KWGT widget, and an Icon Pack Studio icon pack to recreate the complete look.
+Halogen Amber is an orange/amber-themed Android home screen setup built for Total Launcher. It includes a custom launcher backup, a custom KWGT widget, and an Icon Pack Studio icon pack to recreate the complete look.
 
-It is based on the original [Halogen](https://github.com/Halodoesanope/Halogen.git) project by [Halodoesanope](https://github.com/Halodoesanope), with a refreshed color palette and a few visual tweaks while keeping the overall design intact.
+The project is based on the original [Halogen](https://github.com/Halodoesanope/Halogen.git) theme by [Halodoesanope](https://github.com/Halodoesanope), featuring a refreshed color palette and several visual tweaks while preserving the original design.
 
 ## Requirements
 
