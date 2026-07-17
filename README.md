@@ -58,7 +58,9 @@ Download the following files before starting the installation:
 
 ## Installation
 
-### 1. Import the Total Launcher backup
+Follow these steps to install and configure Halogen Amber.
+
+### Step 1 — Import the Total Launcher backup
 
 1. Open **Total Launcher**.
 2. Open the menu.
@@ -67,7 +69,7 @@ Download the following files before starting the installation:
 5. Select `Halogen_Amber.zip`.
 6. Tap the **⋮** menu and choose **Restore**.
 
-### 2. Import the KWGT widget
+### Step 2 — Import the KWGT widget
 
 1. Open the **KWGT** app.
 2. Tap **Select Folder**.
@@ -82,7 +84,7 @@ Download the following files before starting the installation:
 11. Grant any permissions requested by KWGT (for problems see Additional Setup).
 12. Save the widget.
 
-### 3. Set Total Launcher as your default launcher
+### Step 3 — Set Total Launcher as your default launcher
 
 Go to:
 
@@ -99,7 +101,8 @@ Select **Total Launcher**.
 5. Select **Halogen** and tap **Apply**.
 6. Once the APK has been generated, install it using your file manager.
 
-Your home screen is now ready.
+> [!SUCCESS]
+> Halogen Amber is now installed and your home screen should match the preview image, otherwise see [Additional Setup](#additional-setup).
 
 ## Additional Setup
 
