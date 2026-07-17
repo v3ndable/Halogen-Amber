@@ -81,7 +81,10 @@ Follow these steps to install and configure Halogen Amber.
 8. KWGT will open automatically.
 9. Open the **Library** tab.
 10. Select **OnepanelAmber**.
-11. Grant any permissions requested by KWGT (for problems see Additional Setup).
+11. Grant any permissions requested by KWGT. If Android shows **"Restricted setting"**, allow restricted settings first:
+    
+    **Settings → Apps → Kustom Widget → ⋮ → Allow restricted settings**
+
 12. Save the widget.
 
 ### Step 3 — Set Total Launcher as your default launcher
@@ -101,20 +104,13 @@ Select **Total Launcher**.
 5. Select **Halogen** and tap **Apply**.
 6. Once the APK has been generated, install it using your file manager.
 
-> [!SUCCESS]
-> Halogen Amber is now installed and your home screen should match the preview image, otherwise see [Additional Setup](#additional-setup).
+> [!NOTE]
+> **Installation complete!**  
+> Halogen Amber has been installed. Because Android devices have different screen sizes and aspect ratios, some small adjustments may be required. See [Additional Setup](#additional-setup) if needed.
 
 ## Additional Setup
 
 Since every phone has a different screen size and aspect ratio, you may need to make a few small adjustments.
-
-### If KWGT shows "Restricted setting"
-
-If notification access or another permission cannot be enabled because Android displays **Restricted setting**, go to:
-
-**Settings → Apps → Kustom Widget → ⋮ → Allow restricted settings**
-
-Then grant the required permissions again.
 
 ### General settings
 
