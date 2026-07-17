@@ -141,4 +141,4 @@ See the [LICENSE](LICENSE) file for the full license text.
 [issues-shield]: https://img.shields.io/github/issues/v3ndable/Halogen-Amber.svg?style=for-the-badge
 [issues-url]: https://github.com/v3ndable/Halogen-Amber/issues
 [license-shield]: https://img.shields.io/github/license/v3ndable/Halogen-Amber.svg?style=for-the-badge
-[license-url]: https://github.com/v3ndable/Halogen-Amber/blob/master/LICENSE.txt
+[license-url]: https://github.com/v3ndable/Halogen-Amber/blob/main/LICENSE
