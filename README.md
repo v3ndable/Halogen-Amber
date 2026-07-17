@@ -1,3 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GPL-3.0][license-shield]][license-url]
+
 # Halogen Amber
 Halogen Amber is an orange/amber-themed Android home screen setup for Total Launcher. It includes a custom launcher backup, a KWGT widget, and an Icon Pack Studio icon pack to recreate the complete look.
 
@@ -8,21 +14,21 @@ It is based on the original [Halogen](https://github.com/Halodoesanope/Halogen.g
 ## Apps
 All apps have a premium version, with a lifetime payment at time of posting. Required premium will be marked with 💲
 
-•[Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2)
+* [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2)
 
-•[Icon Pack Studio](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio)
+* [Icon Pack Studio](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio)
 
-•[KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget)💲 (requires premium to import)
+* [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget)💲 (requires premium to import)
 
 ## Configs
-•[Halogen_Amber.zip](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/Halogen_Amber.zip) -- Config for Total Launcher. Contains Background and Widget Layout.
+* [Halogen_Amber.zip](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/Halogen_Amber.zip) -- Config for Total Launcher. Contains Background and Widget Layout.
 
-•[OnepanelAmber.kwgt](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/OnepanelAmber.kwgt) -- Config for KWGT. **REQUIRES PREMIUM TO IMPORT.**
+* [OnepanelAmber.kwgt](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/OnepanelAmber.kwgt) -- Config for KWGT. **REQUIRES PREMIUM TO IMPORT.**
 
 ## Icons
 Will open in Icon Pack Studio. 
 
-•[Halogen Icons](https://share.iconpackstudio.com/feed/tdulmoUhpbNpb4Dg)
+* [Halogen Icons](https://share.iconpackstudio.com/feed/tdulmoUhpbNpb4Dg)
 
 ## Installation
 
@@ -118,3 +124,14 @@ To use a different accent color:
 This project is a modified fork of [Halogen](https://github.com/Halodoesanope/Halogen.git) by [Halodoesanope](https://github.com/Halodoesanope) and is licensed under the **GNU General Public License v3.0 (GPL-3.0)**, in accordance with the original project.
 
 See the [LICENSE](LICENSE) file for the full license text.
+
+[contributors-shield]: https://img.shields.io/github/contributors/v3ndable/Halogen-Amber.svg?style=for-the-badge
+[contributors-url]: https://github.com/v3ndable/Halogen-Amber/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/v3ndable/Halogen-Amber.svg?style=for-the-badge
+[forks-url]: https://github.com/v3ndable/Halogen-Amber/network/members
+[stars-shield]: https://img.shields.io/github/stars/v3ndable/Halogen-Amber.svg?style=for-the-badge
+[stars-url]: https://github.com/v3ndable/Halogen-Amber/stargazers
+[issues-shield]: https://img.shields.io/github/issues/v3ndable/Halogen-Amber.svg?style=for-the-badge
+[issues-url]: https://github.com/v3ndable/Halogen-Amber/issues
+[license-shield]: https://img.shields.io/github/license/v3ndable/Halogen-Amber.svg?style=for-the-badge
+[license-url]: https://github.com/v3ndable/Halogen-Amber/blob/master/LICENSE.txt
