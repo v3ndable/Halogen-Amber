@@ -81,19 +81,13 @@ Follow these steps to install and configure Halogen Amber.
 8. KWGT will open automatically.
 9. Open the **Library** tab.
 10. Select **OnepanelAmber**.
-11. Grant any permissions requested by KWGT. If Android shows **"Restricted setting"**, allow restricted settings first:
-    
-    **Settings → Apps → Kustom Widget → ⋮ → Allow restricted settings**
-
+11. Grant any permissions requested by KWGT. If Android shows **"Restricted setting"**, allow restricted settings first: **Settings → Apps → Kustom Widget → ⋮ → Allow restricted settings**
 12. Save the widget.
 
 ### Step 3 — Set Total Launcher as your default launcher
 
-Go to:
-
-**Settings → Apps → Default apps → Home app**
-
-Select **Total Launcher**.
+1. Go to: **Settings → Apps → Default apps → Home app**
+2. Select **Total Launcher**.
 
 ### 4. Install the icon pack
 
@@ -130,19 +124,13 @@ If the weather is incorrect:
 
 ### Date format
 
-The widget is designed for the `dd.MM` date format.
-
-If your device uses another format, you will need to edit the corresponding text formulas inside the affected KWGT items.
+The widget is designed for the `dd.MM` date format. If your device uses another format, you will need to edit the corresponding text formulas inside the affected KWGT items.
 
 ### Accent color
 
-The default accent color is:
+The default accent color is: **Amber (SAE/ECE)** — `#FFFF7E00`
 
-**Amber (SAE/ECE)** — `#FFFF7E00`
-
-To use a different accent color:
-
-**KWGT → Globals → Color**
+To use a different accent color: **KWGT → Globals → Color**
 
 ## License
 
