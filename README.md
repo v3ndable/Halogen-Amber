@@ -1,5 +1,7 @@
 # Halogen Amber
-Halogen Amber is an orange/amber themed fork of [Halogen](https://github.com/Halodoesanope/Halogen.git), originally created by [Halodoesanope](https://github.com/Halodoesanope). This fork includes a few visual changes while keeping the overall design of the original theme.
+Halogen Amber is an orange/amber-themed Android home screen setup for Total Launcher. It includes a custom launcher backup, a KWGT widget, and an Icon Pack Studio icon pack to recreate the complete look.
+
+It is based on the original [Halogen](https://github.com/Halodoesanope/Halogen.git) project by [Halodoesanope](https://github.com/Halodoesanope), with a refreshed color palette and a few visual tweaks while keeping the overall design intact.
 
 ![](https://raw.githubusercontent.com/v3ndable/Halogen-Amber/refs/heads/main/Screenshot_Total-Launcher.png "preview ")
 
