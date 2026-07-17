@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -8,11 +10,23 @@
 
 # Halogen Amber
 
-An orange/amber-themed Android home screen setup for Total Launcher powered by KWGT and Icon Pack Studio.
+An orange/amber-themed Android home screen setup for **Total Launcher** powered by **KWGT** and **Icon Pack Studio**.
 
 <img src="https://raw.githubusercontent.com/v3ndable/Halogen-Amber/refs/heads/main/Screenshot_Total-Launcher.png" width="300">
 
 </div>
+
+<details>
+<summary>Table of Contents</summary>
+
+- [About](#about)
+- [Requirements](#requirements)
+- [Downloads](#downloads)
+- [Installation](#installation)
+- [Additional Setup](#additional-setup)
+- [License](#license)
+
+</details>
 
 ## About
 Halogen Amber is an orange/amber-themed Android home screen setup for Total Launcher. It includes a custom launcher backup, a KWGT widget, and an Icon Pack Studio icon pack to recreate the complete look.
@@ -20,20 +34,27 @@ Halogen Amber is an orange/amber-themed Android home screen setup for Total Laun
 It is based on the original [Halogen](https://github.com/Halodoesanope/Halogen.git) project by [Halodoesanope](https://github.com/Halodoesanope), with a refreshed color palette and a few visual tweaks while keeping the overall design intact.
 
 ## Requirements
-All apps have a premium version, with a lifetime payment at time of posting. Required premium will be marked with 💲
 
-* [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2)
+The following apps are required to use Halogen Amber:
 
-* [Icon Pack Studio](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio)
+| App | Notes |
+|------|-------|
+| [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2) | Launcher |
+| [Icon Pack Studio](https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio) | Used to install the icon pack |
+| [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) | **Premium required** to import the widget |
 
-* [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget)💲 (requires premium to import)
+> [!NOTE]
+> Only **KWGT Premium** is required for this setup. Total Launcher and Icon Pack Studio can be used without their premium versions.
 
 ## Downloads
-* [Halogen_Amber.zip](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/Halogen_Amber.zip) -- Config for Total Launcher. Contains Background and Widget Layout.
 
-* [OnepanelAmber.kwgt](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/OnepanelAmber.kwgt) -- Config for KWGT. **REQUIRES PREMIUM TO IMPORT.**
+Download the following files before starting the installation:
 
-* [Halogen Icons](https://share.iconpackstudio.com/feed/tdulmoUhpbNpb4Dg) -- Will open in Icon Pack Studio
+| File | Description |
+|------|-------------|
+| [Halogen_Amber.zip](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/Halogen_Amber.zip) | Total Launcher backup containing the wallpaper and launcher layout. |
+| [OnepanelAmber.kwgt](https://github.com/v3ndable/Halogen-Amber/raw/refs/heads/main/OnepanelAmber.kwgt) | KWGT widget preset. **Requires KWGT Premium.** |
+| [Halogen Icons](https://share.iconpackstudio.com/feed/tdulmoUhpbNpb4Dg) | Icon Pack Studio project used to generate the icon pack. |
 
 ## Installation
 
